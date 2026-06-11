@@ -3,6 +3,9 @@ This repo contains all the various functionality of how to use pytorch.
 
 ## For displaying the notebooks use the file with .md extention and not the ones with .ipynb extention since github faces some problems in rendering the notebooks.
 
+## Intructions:
+Each notebook has a helper function associated to it which has been renamed with the notebook type extension. While running the notebook, you will have to either rename it back to helper_utils.py or change the import in the notebook
+
 
 ## Module 1 : 
 In this module, you’ll get started with PyTorch, the framework that revolutionized deep learning by making it as intuitive as writing Python code. You’ll progress from a single neuron that models linear relationships to multi-neuron networks with activation functions for complex patterns. Along the way, you’ll build and train your first models, learn how to work with tensors, and see the complete machine learning pipeline in action. It has several exercises separated under LAB folders.
